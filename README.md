@@ -1,7 +1,3 @@
-Aqui está uma sugestão de mensagem de **README** para o seu projeto de **e-commerce de hamburgueria** usando **React**. Você pode personalizar conforme necessário:
-
----
-
 # E-commerce de Hamburgueria
 
 Este é um projeto de **e-commerce** de uma **hamburgueria** desenvolvido com **React**. O objetivo é criar uma plataforma online onde os clientes podem visualizar o menu, adicionar itens ao carrinho e realizar a compra de hambúrgueres e outros produtos de forma simples e intuitiva.
