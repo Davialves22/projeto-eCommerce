@@ -16,6 +16,7 @@ Este é um projeto de **e-commerce** de uma **hamburgueria** desenvolvido com **
 - **Carrinho de Compras:** Os clientes podem adicionar produtos ao carrinho e visualizar o total.
 - **Finalização da Compra:** Interface para a finalização da compra e preenchimento de dados.
 - **Responsive Design:** O design é responsivo e funciona bem em dispositivos móveis e desktop.
+- Créditos ao dev-Club pela base do projeto
 
 ## 🚀 Como Rodar o Projeto
 
