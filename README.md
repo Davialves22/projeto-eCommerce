@@ -29,8 +29,7 @@ Este é um projeto de **e-commerce** de uma **hamburgueria** desenvolvido com **
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+   git clone https://github.com/Davialves22/projeto-eCommerce.git ```
 
 2. Navegue até o diretório do projeto:
 
