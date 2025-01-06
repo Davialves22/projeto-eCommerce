@@ -1,5 +1,7 @@
 import Sequelize from 'sequelize'
 import configDatabase from '../config/database'
+import moongose from 'mongoose'
+
 import User from '../app/models/User'
 import Product from '../app/models/Product'
 import Category from '../app/models/Category'
@@ -9,6 +11,7 @@ const models = [User, Product, Category]
 class Database {
     constructor() {
         this.init()
+        this.mongo()
     }
 
     init() {
@@ -19,6 +22,11 @@ class Database {
             )
     }
 
+    mongo() {
+        this.mongoConnection = moongose.connect(
+            'mongodb://localhost:27017/IfBurger',
+        )
+    }
 }
 
 export default new Database()
